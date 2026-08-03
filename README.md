@@ -9,6 +9,14 @@
   <a href="https://github.com/azharbinanwar/perch-releases/releases">Releases</a>
 </div>
 
+```sh
+# install (clears the Gatekeeper warning for you)
+curl -fsSL perch.kodeelite.com/install.sh | sh
+
+# or with Homebrew
+brew install --cask azharbinanwar/tap/perch
+```
+
 <br>
 
 <div align="center">
